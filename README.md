@@ -1,2 +1,3 @@
 # CV
-Udemy HTML Project
+Udemy Web Development 
+HTML CV Project
